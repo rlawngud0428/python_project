@@ -2,4 +2,4 @@
 <br>
 <ol>
   1. NADO_Coding - pygame
-  NADO_Coding - memo note
+  2. NADO_Coding - memo note
