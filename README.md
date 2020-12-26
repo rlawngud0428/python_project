@@ -1,4 +1,5 @@
 <h1>python_project</h1><br>
 
-1. NADO_Coding - pygame
-2. NADO_Coding - memo note
+1.  - pygame을 활용하여 pang! 이라는 고전 오락실 게임 만들기
+2. 나도코딩 - 메모장
+3. 나도코딩 - 여러 이미지를 하나의 이미지로 합치기
