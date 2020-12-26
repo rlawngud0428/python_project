@@ -1,5 +1,6 @@
-<h1>python_project
+<h1>python_project</h1>
 <br>
-<list>
-1. NADO_Coding - pygame
-2. NADO_Coding - memo note
+<ol>
+NADO_Coding - pygame
+NADO_Coding - memo note
+  </ol>
