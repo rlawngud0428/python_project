@@ -22,7 +22,7 @@
 
 2021-01-03 진행상황
 1. selenium을 이용하여 구글 무비 1위부터 10위까지 가져오기 - selenium_movie.py
-2. selenium을 이용하여 구글 무비 1위부터 200위까지 가져오기 - selenum_movie_screenshot.py
+2. selenium을 이용하여 구글 무비 1위부터 200위까지 가져오기 - selenum_movie_scroll.py
 3. selenium을 창을 띄우지않고 실행하게 만들기 - headless_chrome.py
 4. selenium을 이용하여 headless_chrome을 이용할 때 user-agent 설정하기 - headless_chrome_user_agent.py
 5. quiz ( 다음 부동산에서 매물 정보 가져오기) - quiz.py
