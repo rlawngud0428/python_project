@@ -27,3 +27,6 @@
 4. selenium을 이용하여 headless_chrome을 이용할 때 user-agent 설정하기 - headless_chrome_user_agent.py
 5. quiz ( 다음 부동산에서 매물 정보 가져오기) - quiz.py
 6. prohect ( 나만의 비서 만들기) 를 하던 중, 네이버 뉴스를 가져오는 과정에서 버그 발생, 고치지 못함 - project.py
+
+2021-01-04 진행상황
+1. project 
