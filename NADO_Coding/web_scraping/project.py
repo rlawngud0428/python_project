@@ -12,7 +12,7 @@ import re
 
 
 def create_soup(url):
-    headers = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"}
+    headers = {"User-Agent":"[user agent string]"}
     
     res = requests.get(url, headers=headers)
     res.raise_for_status()
@@ -27,7 +27,7 @@ def print_news(index, title, link):
 
 def scrape_weather():   # 날씨 정보 가져오기 함수
     print("[오늘의 날씨]")
-    url = "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=%EA%B5%B0%ED%8F%AC+%EB%82%A0%EC%94%A8"
+    url = "[자신이 살고있는 도시의 naver 날씨 "
     soup = create_soup(url)
     # 날씨, 어제보다 @@
     cast = soup.find("p", attrs={"class":"cast_txt"}).get_text()
