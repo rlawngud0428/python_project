@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import re
 
 
-headers = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"}
+headers = {"User-Agent":"[user agent string]"}
 
 for i in range(1,6):
     print("페이지 수 :" , i)
